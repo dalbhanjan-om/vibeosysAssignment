@@ -1,12 +1,48 @@
-# React + Vite
+# 🛒 Vibeosys Assignment – Product Cart Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a submission for the **Vibeosys company assignment**, aimed at demonstrating the use of **React**, **Redux**, and **Tailwind CSS** in building a basic e-commerce interface. The application allows users to:
 
-Currently, two official plugins are available:
+- **Add Products**
+- **List All Products**
+- **Add Products to Cart**
+- **View Products in Cart**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [View the Project](https://vibeosys-assignment.vercel.app/)
+
+---
+
+## 🔧 Tech Stack
+
+- **React JS** – Frontend UI
+- **Redux Toolkit** – State management
+- **React Router DOM** – Navigation
+- **Tailwind CSS** – Styling
+
+---
+
+## 📁 Features
+
+### ✅ Add Product
+Users can input product details (like name, price, etc.) and add new items to the store.
+
+---
+
+### 📃 List Products
+Displays a list of all available products with options to add them to the cart.
+
+---
+
+### 🛒 Add to Cart
+Users can add desired products to the cart directly from the product listing.
+
+---
+
+### 🧾 View Cart
+Shows all products added to the cart with their details.
+
+---
+
